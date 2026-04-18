@@ -15,7 +15,7 @@
 
 | Demo | Link |
 |------|------|
-| 🚀 **Streamlit App** | *(add after deploying)* |
+| 🚀 **Streamlit App** | *[Live App](https://ai-sql-business-intelligence-assistant.streamlit.app/#ai-query-assistant)* |
 
 ---
 
