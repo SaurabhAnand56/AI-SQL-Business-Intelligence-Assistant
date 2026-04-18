@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Claude AI](https://img.shields.io/badge/Claude-AI-orange)](https://anthropic.com)
+[![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?logo=google)](https://ai.google.dev)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)](https://sqlite.org)
 [![GitHub](https://img.shields.io/badge/GitHub-SaurabhAnand56-181717?logo=github)](https://github.com/SaurabhAnand56)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saurabhanand56-0A66C2?logo=linkedin)](https://www.linkedin.com/in/saurabhanand56)
@@ -24,7 +24,7 @@
 A user types: *"Which region has the highest profit margin?"*
 
 The app:
-1. Sends the question to **Claude AI API**
+1. Sends the question to **Gemini AI API**
 2. AI generates a valid **SQL query**
 3. Query runs on a **SQLite database** (9,994 orders)
 4. Results displayed as **table + auto chart**
@@ -90,7 +90,7 @@ AI-SQL-Business-Intelligence-Assistant/
 | Tool | Purpose |
 |------|---------|
 | Python | Core language |
-| Claude AI API | Natural language to SQL conversion + insight generation |
+| Gemini AI API | Natural language to SQL conversion + insight generation |
 | SQLite | Relational database for all queries |
 | SQL | Window functions, CTEs, GROUP BY, JOINs, aggregations |
 | Pandas | Data manipulation |
